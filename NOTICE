@@ -1,0 +1,8 @@
+tensor-parallel-side-jobs
+
+Extracted from the GLM RSI Dream research project.
+Copyright 2026 GLM RSI Dream contributors. MIT License (see LICENSE).
+
+The protocol was developed inside a TensorFold-derived two-machine serving stack
+(TensorFold: Ash Hart, Apache-2.0; two-machine integration: MiaAI-Lab, Apache-2.0).
+No code from those projects is included here.
