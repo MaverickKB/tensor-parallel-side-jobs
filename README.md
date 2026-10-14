@@ -65,3 +65,8 @@ python examples/two_rank_demo.py         # add --mismatch to see a cancelled job
 ## License
 
 MIT. See `LICENSE` and `NOTICE`.
+
+## Why, how and origin
+
+- [docs/WHY_HOW.md](docs/WHY_HOW.md): why this exists and how it works.
+- [docs/ORIGIN_STORY.md](docs/ORIGIN_STORY.md): how we got here (links to the master story and lessons in moe-live-learning-tools).
